@@ -15,5 +15,11 @@ To continuously recompile on change, keep this running in a terminal:
 $ npm run watch
 ```
 
+### frida version
+
+```javascript
+pip install frida==17.9.7 frida-tools==14.8.2
+```
+
 And use an editor like Visual Studio Code for code completion and instant
 type-checking feedback.
