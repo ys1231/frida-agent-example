@@ -5,3 +5,6 @@
 /.qoder
 /.cursor
 /.venv
+logs
+*.log
+apks
